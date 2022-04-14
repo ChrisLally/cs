@@ -1,4 +1,3 @@
- <script id="cid-script" type="text/x-handlebars-template">
 
 <main class="main-wrapper">
     <section class="banner-section" style="
@@ -55,4 +54,3 @@
        </div>
     </section>
    </main>
-</script>
